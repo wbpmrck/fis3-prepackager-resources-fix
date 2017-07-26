@@ -1,0 +1,27 @@
+{
+  "name": "fis3-prepackager-resources-fix",
+  "version": "1.0.2",
+  "description": "替换所有html里和js的js模块的require和require.async，替换依赖模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaicui",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbpmrck/fis3-prepackager-resources-fix.git"
+  },
+  "keywords": [
+    "fis3",
+    "build",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/wbpmrck/fis3-prepackager-resources-fix/issues"
+  },
+  "homepage": "https://github.com/wbpmrck/fis3-prepackager-resources-fix#readme"
+}
